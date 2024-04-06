@@ -1,10 +1,10 @@
-# MERN Chat App
+# Word It
 
-Welcome to the MERN Chat App. A full-stack chat application using the MERN stack (MongoDB, Express.js, React.js, and Node.js) along with websockets.
+Welcome to Word It, a MERN stack Chat App. A full-stack chat application using the MERN stack (MongoDB, Express.js, React.js, and Node.js) along with websockets.
 
 ## Features
 
-This chat app includes several cool features, including:
+Word It includes several cool features, including:
 
 - **Online Indicator**: See when other users are online and available for chat.
 - **Uploads/Attachments**: Ability to upload and send attachments within the chat.
